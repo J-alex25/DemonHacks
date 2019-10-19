@@ -21,9 +21,9 @@ Go over to your preferred terminal.
 Command line
 Copy URL
 Git remote
-rename a remote
-remove a remote
-show details for a remote
+Rename a remote
+Remove a remote
+Show details for a remote
 Commits Status
 
 Command Line Interface
@@ -37,5 +37,6 @@ branch -- d deletes a branch
 
 git log -- it'll show you a git history log
 
-Pull
-Pull git 
+Pull git
+
+hello.rb
